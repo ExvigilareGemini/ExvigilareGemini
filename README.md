@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/ExvigilareGemini/ExvigilareGemini/blob/main/img/pexels-photo-Nick-Demou.jpeg)
+![Cover](https://github.com/ExvigilareGemini/ExvigilareGemini/blob/main/img/pexels-francesco-ungaro-96381.jpg)
