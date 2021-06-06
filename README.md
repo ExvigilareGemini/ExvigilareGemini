@@ -7,7 +7,7 @@ I am a front-end web developper.
 Here you can see my work, let's check it and have a very nice day !
 
 ## OpenClassrooms Front-End Course
-https://openclassrooms.com/fr/paths/314-developpeur-front-end
+[Course details](https://openclassrooms.com/fr/paths/314-developpeur-front-end)
 
 Site from scratch
 [Project 7](https://github.com/ExvigilareGemini/AdelinDubois_7_21022021) | 
