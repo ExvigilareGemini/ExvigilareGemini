@@ -22,6 +22,9 @@ Logical thinking with Javascript :
 Debug and testing : 
 [Project 9](https://github.com/ExvigilareGemini/AdelinDubois_9_14032021)
 
+Project management :
+[Project 10](https://github.com/ExvigilareGemini/AdelinDubois_10_15042021)
+
 <!--
 **ExvigilareGemini/ExvigilareGemini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
