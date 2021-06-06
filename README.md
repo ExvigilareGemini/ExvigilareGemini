@@ -9,17 +9,17 @@ Here you can see my work, let's check it and have a very nice day !
 ## OpenClassrooms Front-End Course
 [Course details](https://openclassrooms.com/fr/paths/314-developpeur-front-end)
 
-Site from scratch
+Site from scratch : 
 [Project 7](https://github.com/ExvigilareGemini/AdelinDubois_7_21022021) | 
 [Project 6](https://github.com/ExvigilareGemini/AdelinDubois_6_13012021) | 
 [Project 3](https://github.com/ExvigilareGemini/AdelinDubois_3_02122020) | 
 [Project 2](https://github.com/ExvigilareGemini/AdelinDubois_2_20112020) | 
 
-Logical thinking with Javascript
+Logical thinking with Javascript : 
 [Project 7](https://github.com/ExvigilareGemini/AdelinDubois_7_21022021) | 
 [Project 4](https://github.com/ExvigilareGemini/AdelinDubois_4_04012021)
 
-Debug and testing
+Debug and testing : 
 [Project 9](https://github.com/ExvigilareGemini/AdelinDubois_9_14032021)
 
 <!--
