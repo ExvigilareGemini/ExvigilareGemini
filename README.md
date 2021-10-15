@@ -27,7 +27,14 @@ Design & Project management :
 
 React :
 [Project 11](https://github.com/ExvigilareGemini/AdelinDubois_11_20052021)
+[Project 12](https://github.com/ExvigilareGemini/AdelinDubois_12_18062021)
 
+React+Redux :
+[Project 13](https://github.com/ExvigilareGemini/AdelinDubois_12_18062021)
+[Project 14](https://github.com/ExvigilareGemini/AdelinDubois_14_27082021)
+
+Npm packages :
+[react-redux-table](https://github.com/ExvigilareGemini/react-redux-table)
 <!--
 **ExvigilareGemini/ExvigilareGemini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
