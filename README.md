@@ -26,11 +26,11 @@ Design & Project management :
 [Project 10](https://github.com/ExvigilareGemini/AdelinDubois_10_15042021)
 
 React :
-[Project 11](https://github.com/ExvigilareGemini/AdelinDubois_11_20052021)
+[Project 11](https://github.com/ExvigilareGemini/AdelinDubois_11_20052021) |
 [Project 12](https://github.com/ExvigilareGemini/AdelinDubois_12_18062021)
 
 React+Redux :
-[Project 13](https://github.com/ExvigilareGemini/AdelinDubois_12_18062021)
+[Project 13](https://github.com/ExvigilareGemini/AdelinDubois_12_18062021) |
 [Project 14](https://github.com/ExvigilareGemini/AdelinDubois_14_27082021)
 
 Npm packages :
