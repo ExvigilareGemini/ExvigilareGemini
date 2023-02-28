@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm happy to see you.
-My name is Adelin Dubois, I'm from Belgium and you are on my github page !
+My name is Adelin Dubois, I'm from France and you are on my github page !
 I am a front-end web developper.
 
 Here you can see my work, let's check it and have a very nice day !
